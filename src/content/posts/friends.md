@@ -49,6 +49,7 @@ draft: false
 # 2025
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879) (3月)
 - [森](https://steamcommunity.com/profiles/76561199436766097) （3月）
+- [芽芽](https://steamcommunity.com/profiles/76561198370308017) (3月)
 - [Kaza](https://steamcommunity.com/profiles/76561198849539738) (4月)
 
 <span style="color:#a9a9a9">最后更新于 2025年12月27日</span>
