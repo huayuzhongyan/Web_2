@@ -27,7 +27,7 @@ draft: false
 - [碧落星辰](https://steamcommunity.com/profiles/76561199206975005) (6月)
 - [呵呵林呵呵](https://steamcommunity.com/profiles/76561199109872048) (7月)
 - [浪浪山](https://steamcommunity.com/profiles/76561199045732573) (8月)
-- Tak1na
+- [Tak1na](https://steamcommunity.com/profiles/76561199364880383) (8月)
 - [面包](https://steamcommunity.com/profiles/76561199075131465) (8月)
 - [Fish](https://steamcommunity.com/profiles/76561199426944104) (10月)
 - [星语夏](https://steamcommunity.com/profiles/76561198373850548) (11月)
