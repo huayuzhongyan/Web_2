@@ -247,7 +247,7 @@ export const navBarConfig: NavBarConfig = {
 				},
 				{
 					name: "Steam",
-					url: "https://steamcommunity.com/profiles/76561199036244480",
+					url: "https://steamcommunity.com/",
 					external: true,
 					icon: "fa6-brands:steam",
 				},				
@@ -300,7 +300,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Steam",
 			icon: "fa6-brands:steam",
-			url: "https://steamcommunity.com/profiles/76561199036244480",
+			url: "https://steamcommunity.com/",
 		},		
 	],
 };
