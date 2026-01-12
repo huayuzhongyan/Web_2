@@ -20,6 +20,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://steamcommunity.com/profiles/76561199036244480/",
 		tags: ["Steam"],
 	},
+	{
+		id: 2,
+		title: "可爱妹妹喵",
+		imgurl: "https://tc.meow.us.kg/file/1767866080820_062F06AB0B5FA1D83B2D9E41721EEE94.jpg",
+		desc: "可爱妹妹。",
+		siteurl: "https://halo.meow.us.kg",
+		tags: ["Blog"],
+	},
 ];
 
 // 获取所有友情链接数据
